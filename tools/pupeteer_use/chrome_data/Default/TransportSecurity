@@ -1,0 +1,170 @@
+{
+   "/VfiBGkIXip4Q8zRkQjWM6M2ec5UAwjM0Pe7EbAVj4o=": {
+      "expiry": 1587968870.983319,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432870.983326
+   },
+   "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
+      "expiry": 1587968849.64645,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432849.646452
+   },
+   "5g07eAfCvoNNAPlvydKJG3pf8OqKAmApW0yTohX7XWc=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1557037514.124442,
+         "expect_ct_observed": 1556432714.124442,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
+   "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
+      "expiry": 1587968848.459243,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432848.459245
+   },
+   "FPJO18fhg9mcdcpHQCH7NASC8NiFNNh4V7bx7N9HeOs=": {
+      "expiry": 1582352726.396665,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432726.39667
+   },
+   "HGgWuImG7OKoFG+SVLyzGa2Q/Pc92nvPSMCzgHENRl0=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1559024721.869438,
+         "expect_ct_observed": 1556432721.869438,
+         "expect_ct_report_uri": "http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+      },
+      "expiry": 1587968721.869389,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432721.869396
+   },
+   "HS0xQK8RrrSZ/KdSgKIC7bLU+xijlimr9JuWvTPbfkE=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1559024722.02377,
+         "expect_ct_observed": 1556432722.02377,
+         "expect_ct_report_uri": "http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+      },
+      "expiry": 1587968722.023715,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432722.023723
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "expiry": 1567319252.873993,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432852.87401
+   },
+   "NL+TMn6+3VoQ4ZOTW/vXhCOeLGldajA1dRjWDACmeqg=": {
+      "expiry": 1587968725.510057,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432725.510063
+   },
+   "NammqMJzT2J2lqx85SRpX6z9IAZ/rcWNNlySUgI86h0=": {
+      "expiry": 1587968722.110815,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432722.110823
+   },
+   "OOJ74ie5uV9yicSYhCiLQvwTKX8vFTV+K7WF1c44pCA=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1557037514.658655,
+         "expect_ct_observed": 1556432714.658655,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
+   "TtEzPuxlmH4jU1fhSjfb5XnoZKcMKbHFfwr5VGnotSA=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1557037520.718806,
+         "expect_ct_observed": 1556432720.718806,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
+   "VUUC1F8VOjXnauQ1RHpVULgchhgPB64JM80sZd5+X+w=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1557037516.889745,
+         "expect_ct_observed": 1556432716.889745,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
+   "WI+tzYglaQlDcPPtx4l4j7siNiPka9MOp5EXJ8hdbsY=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1557037519.021228,
+         "expect_ct_observed": 1556432719.021228,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
+   "XCHkzWV3eq1CXt3fv20Sm9aajYQgcDj9RhN/6YGwk5M=": {
+      "expiry": 1587968874.533064,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432874.53307
+   },
+   "XhfjKX/pWqI06hPmREKl/daJ2dWwZsvlSNAmuiMtJxQ=": {
+      "expiry": 1572200868.656239,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432868.656243
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1567319110.916066,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556432710.916071
+   },
+   "iJ46AFki/pNGzZK2oJ+4BDgQgbyponoYScLEyRcZ9po=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1557037516.402327,
+         "expect_ct_observed": 1556432716.402327,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1587968869.820586,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432869.820591
+   },
+   "toB2fV+fEcyL2Ck/EVANVfN1+m51dljfCTqpdF+s7xQ=": {
+      "expiry": 1572200719.25949,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556432719.259494
+   }
+}
